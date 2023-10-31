@@ -1,0 +1,9 @@
+.mypy_chace
+.ropeproject
+venv
+GLITCH
+scripts/.mypy_chace
+scripts/.ropeproject
+__pycache__/
+datasets/
+dsl/

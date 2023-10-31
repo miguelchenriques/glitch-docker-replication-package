@@ -1,0 +1,8 @@
+.mypy_cache
+.ropeproject
+venv
+GLITCH/venv
+scripts/.mypy_chace
+scripts/.ropeproject
+*/__pycache__
+Dockerfile
